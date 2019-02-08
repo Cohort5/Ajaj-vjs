@@ -21,6 +21,10 @@ AJAX Crash Course (Vanilla JavaScript)
     Libraries & other Methods to make things easier
     Plain Vanilla JavaScript Request using XHR()
     
+    Local API - index and index2 , internal
+    External API - index3 , gitHUB   
+    
+    
     
     
     
