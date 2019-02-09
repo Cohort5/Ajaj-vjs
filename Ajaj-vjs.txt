@@ -22,7 +22,9 @@ AJAX Crash Course (Vanilla JavaScript)
     Plain Vanilla JavaScript Request using XHR()
     
     Local API - index and index2 , internal, 35m
-    External API - index3 , gitHUB, 40m
+    External API - index3 , gitHUB, 40m [https://api.github.com/users]
+    Process PHP -        , 45m
+    PHP front to back
     
     
     
