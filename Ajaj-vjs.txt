@@ -24,6 +24,8 @@ AJAX Crash Course (Vanilla JavaScript)
     Local API - index and index2 , internal, 35m
     External API - index3 , gitHUB, 40m [https://api.github.com/users]
     Process PHP -        , 45m
+    GET FORM, AJA GET FOR, 55m
+    POST REQUEST - adding/submiting data to server, 59m
     PHP front to back
     
     
