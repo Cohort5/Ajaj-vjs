@@ -26,6 +26,7 @@ AJAX Crash Course (Vanilla JavaScript)
     Process PHP -        , 45m
     GET FORM, AJA GET FOR, 55m
     POST REQUEST - adding/submiting data to server, 59m
+    
     PHP front to back
     
     
